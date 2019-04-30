@@ -64,12 +64,6 @@
     
 
 header
-{
-    background-image: url(nana.jpg);
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
-}
 
 .main-nav
 {
