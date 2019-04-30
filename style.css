@@ -4,6 +4,9 @@
     padding: 0px;
 }
 
+
+header
+
 @keyframes slider {
     0% {
         left: 0%;
@@ -62,9 +65,6 @@
         animation: 20s slider infinite;
     }
     
-
-header
-
 .main-nav
 {
     float: right;
