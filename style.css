@@ -1,0 +1,122 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+header
+{
+    background-image: url(nana.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.main-nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+}
+
+.main-nav li a
+{
+    color: white;
+    padding: 5px 20px;
+    font-family: "monospace";
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.main-nav li.active a
+{
+    border: 2px solid white;
+}
+
+.main-nav li a:hover
+{
+    border: 2px solid white;
+}
+
+.logo img
+{
+    width:150px;
+    height: auto;
+    float: left;  
+    margin: 10px;
+}
+
+body
+{
+    font-family: "monospace";
+}
+
+.row
+{
+    max-width: 1400px;
+    margin: auto;
+    
+}
+
+.hero
+{
+    position: absolute;
+    width: 1250px;
+    margin-left: 0;
+    margin-top: 0;
+    text-align: center;
+}
+
+h1
+{
+    color: white;
+    font-style: monospace;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 240px;
+    text-transform: uppercase;
+}
+
+p
+{
+    color: white;
+}
+
+.button
+{
+    margin-top: 0px;
+    padding: 370px;
+    text-align: center;
+}
+
+.btn
+{
+    border: 2px solid white;
+    color: white;
+    padding: 10px 30px;
+    margin-right: 5px;
+    font-size: 15px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.btn-one:hover
+{
+    background-color: black;
+}
+
+.btn-two:hover
+{
+    background-color: black;
+}
+
+.btn-three:hover
+{
+    background-color: black;
+}
+
