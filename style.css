@@ -28,7 +28,7 @@ header
 {
     color: white;
     padding: 5px 20px;
-    font-family: "monospace";
+    font-family: monospace;
     font-size: 20px;
     text-decoration: none;
 }
@@ -53,14 +53,13 @@ header
 
 body
 {
-    font-family: "monospace";
+    font-family: monospace;
 }
 
 .row
 {
     max-width: 1400px;
     margin: auto;
-    
 }
 
 .hero
@@ -119,4 +118,3 @@ p
 {
     background-color: black;
 }
-
